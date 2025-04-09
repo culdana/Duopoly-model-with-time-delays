@@ -1,6 +1,5 @@
 (* 
   System of delay differential equations for two competing firms 
-  with memory.
 *)
 
 sys[T_] := {
